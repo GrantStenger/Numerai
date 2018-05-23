@@ -1,4 +1,5 @@
 xgboost
+*.csv
 week94/datasets
 week94/numerai_datasets/
 week94/predictions_stenger.csv
