@@ -1,15 +1,2 @@
 xgboost
 *.csv
-week94/datasets
-week94/numerai_datasets/
-week94/predictions_stenger.csv
-week94/predictions_stenger_copy.csv
-week95/numerai_datasets
-week95/predictions_stenger.csv
-week95/predictions_stenger2.csv
-week95/predictions_stenger3.csv
-week95/predictions_stenger4.csv
-week108/example_predictions.csv
-week108/numerai_tournament_data.csv
-week108/numerai_training_data.csv
-week108/predictions.csv
